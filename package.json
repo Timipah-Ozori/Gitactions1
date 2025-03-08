@@ -1,0 +1,23 @@
+{
+  "name": "gitactions1",
+  "version": "1.0.0",
+  "description": "Git Action Mini Project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timipah-Ozori/Gitactions1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timipah-Ozori/Gitactions1/issues"
+  },
+  "homepage": "https://github.com/Timipah-Ozori/Gitactions1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
